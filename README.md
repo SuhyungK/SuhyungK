@@ -1,2 +1,2 @@
 
-<div align="center"><img src="https://img.shields.io/badge/Python-8B7D6B?style=flat-square&logo=Python&logoColor=#0000FF"/></div>
+<div align="center"><img src="https://img.shields.io/badge/Python-0000FF?style=flat-square&logo=Python&logoColor=#FFFF00"/></div>
