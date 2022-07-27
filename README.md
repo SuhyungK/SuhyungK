@@ -1,10 +1,7 @@
 <div style="float:left;">
-👑🌧️🌊SuhyungK🌈📚🎵
+👑🌧️🌊 **SuhyungK** 🌈📚🎵
 <br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=Python&logoColor=#306998"/>
-</div>
-
-<div style="float:right; display:inline-block;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyungK&layout=compact)](https://github.com/SuhyungK/github-readme-stats)
   <br><br>
