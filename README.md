@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --
 
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyungK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyungK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=8B7D6B"/>
