@@ -8,6 +8,6 @@
 </div>
 <div align="center">
 
-![SuhyungK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyungK&show_icons=true&theme=dracula)
+![SuhyungK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyungK&show_icons=true&theme=tokyonight)
 
 </div>
