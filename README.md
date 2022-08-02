@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyungK&layout=compact)](https://github.com/SuhyungK/github-readme-stats)
+github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8
   
 ![SuhyungK's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhyungK&show_icons=true&theme=tokyonight)
 
