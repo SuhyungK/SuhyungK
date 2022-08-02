@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" sytle="inline-block">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuhyungK&layout=compact&theme=tokyonight)
   
